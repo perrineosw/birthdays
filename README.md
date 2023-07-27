@@ -1,5 +1,12 @@
-# Kata-seed
+# Birthdays
 
-This seed contains setup for kata involving Unit testing and code coverage.
+This kata focuses on writing very simple unit tests.
 
-It is available in several-languages in order to enable as many people as possible to have a quick setup. Check the `README.md` file in each folder to see how to setup your solution.
+## Problem description
+
+The `BirthdayNotebook` enables to store birthdays date for people to never forget their birthday again. It is composed of two methods :
+
+- `addBirthday` adds a birthday to the notebook
+- `getBirthdays` returns the list of all birthdays
+
+Write down tests for this class using your favorite framework. **There is a bug in the code**, can you find it?
