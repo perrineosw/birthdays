@@ -7,6 +7,6 @@ This kata focuses on writing very simple unit tests.
 The `BirthdayNotebook` enables to store birthdays date for people to never forget their birthday again. It is composed of two methods :
 
 - `addBirthday` adds a birthday to the notebook
-- `getBirthdays` returns the list of all birthdays
+- `getBirthdays` returns the list of all birthdays for a given full date (not only current date)
 
 Write down tests for this class using your favorite framework. **There is a bug in the code**, can you find it?
